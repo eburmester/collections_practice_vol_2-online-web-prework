@@ -26,7 +26,7 @@ def count_elements(array)
 end
 
 def merge_data(data1, data2)
- data = {:data1 => [:data2]}
+ 
  
 end
 
